@@ -1,0 +1,9 @@
+[uBlock Origin 1.67.0]
+! Version: __TIMESTAMP__
+! Title: index-kr
+! Last modified: __LAST_MODIFIED__
+! Expires: 2 days
+! Commit: __COMMIT__
+! 
+! Homepage: https://github.com/seia-soto/index-kr
+! Author: HoJeong Go <seia@outlook.kr>
