@@ -53,6 +53,12 @@
 ||dtory.ebs.co.kr^
 ||api.hktm.mplanit.co.kr^
 ||ebm.lfmall.co.kr^
+||logs-partners.coupang.com^
+||error-report.com^
+
+||adcr.naver.com^$3p
+||ader.naver.com^$3p
+||link.coupang.com^$3p
 
 ||point.pay.naver.com/public-api/benefit/preset-list/pay/paymenthistory_bottom^
 ||pay.naver.com/web-api/timeline/aitems/paymenthistory^
@@ -73,11 +79,16 @@
 ||shinhan.com/blank.xml^
 ||gall.dcinside.com/_js/ad.js^
 ||nstatic.dcinside.com/ad^
+||m.dcinside.com/ajax/naverad^
 ||surplusglobal.com/js/Log.js^
 ||surplusglobal.com/asset/js/beta.fix.js^
 ||surplusglobal.com/js/makePCookie.js^
 ||hanwhalife.com/resources/thirdParty/wl^
 ||hanwhalife.com/wloso.html^
+||ssl.pstatic.net/adimg3.search^
+||dogdrip.net/modules/dnad^
+||buly.kr/Form/_guest/basic/images/coupang_banner.png^
+||buly.kr/Conn/js/traffic.siso^
 
 www.naver.com###ad_timeboard
 www.naver.com###search-right
@@ -90,3 +101,10 @@ www.daum.net##.box_game
 www.daum.net##.board_shopping
 map.kakao.com###info\.nativeAds
 map.kakao.com##.AdItem
+buly.kr##.coupang_banner
+gall.dcinside.com##.ub-content:has(.icon_ad)
+gall.dcinside.com##comment_li_0
+m.dcinside.com##.adv-group
+m.dcinside.com##.adv-grouptop
+m.dcinside.com##.detail-top-lnk:has(span.ntc-line-ad)
+m.dcinside.com##.pwlink
